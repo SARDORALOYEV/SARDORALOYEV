@@ -64,5 +64,5 @@
 
 ## 📬 Связь со мной
 
-* **LinkedIn:** [Ваш профиль](https://linkedin.com/in/SizningProfiliz)
-* **Figma Workspace:** [Дизайн-проекты](https://figma.com)
+* **LinkedIn:** [Sardor Aloyev](https://www.linkedin.com/in/sardor-aloyev-790ba7410)
+* **Telegram:** [@Oke07n](https://t.me/Oke07n)
