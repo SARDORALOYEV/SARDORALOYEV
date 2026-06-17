@@ -55,10 +55,16 @@ I am an experienced developer and team lead specializing in building high-perfor
 
 ## 📈 My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SARDORALOYEV&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARDORALOYEV&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SARDORALOYEV&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARDORALOYEV&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
+    </td>
+  </tr>
+</table>
 
 ---
 
