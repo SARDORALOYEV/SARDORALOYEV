@@ -50,21 +50,15 @@ I am an experienced developer and team lead specializing in building high-perfor
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/Spline-FF4081?style=for-the-badge&logo=spline&logoColor=white" alt="Spline" />
 </p>
-
 ---
 
 ## 📈 My GitHub Stats
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SARDORALOYEV&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARDORALOYEV&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SARDORALOYEV&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARDORALOYEV&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" height="195" />
+</p>
 
 ---
 
