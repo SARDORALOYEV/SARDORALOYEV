@@ -47,17 +47,23 @@ I am an experienced developer and team lead specializing in building high-perfor
 
 ## 📈 Premium Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SARDORALOYEV&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARDORALOYEV&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" width="48%" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=SARDORALOYEV&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="195" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARDORALOYEV&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SARDORALOYEV&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SARDORALOYEV&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SARDORALOYEV&theme=dracula&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
