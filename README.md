@@ -63,7 +63,7 @@ I am an experienced developer and team lead specializing in building high-perfor
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SARDORALOYEV&theme=dracula&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-badges.herokuapp.com/badges?username=SARDORALOYEV&theme=tokyonight" alt="GitHub Achievements Badges" />
 </p>
 
 ---
