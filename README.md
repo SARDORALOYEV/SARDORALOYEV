@@ -1,20 +1,23 @@
-# Hello, I'm Sardor Aloyev 👋
+<h1 align="center">Привет, я Sardor Aloyev 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Team+Lead+%26+QA+Specialist;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
+</p>
 
-### Full-Stack Developer | Team Lead & QA Specialist
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SARDORALOYEV&label=Profile%20views&color=007acc&style=flat" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SARDORALOYEV&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
 ## 🛠 About Me
 
+<p align="left">
 I am an experienced developer and team lead specializing in building high-performance web and mobile applications. I manage testing processes, architecture, and successful releases. I turn complex technical challenges into intuitive digital products, actively incorporating modern frameworks and 3D graphics in the browser.
+</p>
 
-* **💼 Current Role:** Team Lead & QA at the educational platform Aidevix.
+* **💼 Current Role:** Team Lead & QA at the educational platform **Aidevix**
 * **🌍 Location:** Tashkent, Uzbekistan 🇺🇿
-* **⚡ Automation Tools:** AI integration, Telegram bots, and workflow automation via Make.com.
+* **⚡ Automation Tools:** AI integration, Telegram bots, and workflow automation via **Make.com**
 
 ---
 
@@ -22,47 +25,51 @@ I am an experienced developer and team lead specializing in building high-perfor
 
 ### 💻 Frontend Development
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" alt="Frontend Tools" />
 </p>
 
 ### ⚛️ Frameworks & Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/React_JSX_(Vite)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vue,angular" alt="Frameworks" />
 </p>
 
 ### ⚙️ Backend & Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb" alt="Backend Tools" />
 </p>
 
 ### 🎨 3D Graphics & Animation
 <p align="left">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Spline-FF4081?style=for-the-badge&logo=spline&logoColor=white" alt="Spline" />
+  <img src="https://skillicons.dev/icons?i=threejs" alt="3D Graphics" />
 </p>
+
 ---
 
-## 📈 My GitHub Stats
+## 📈 Premium Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SARDORALOYEV&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARDORALOYEV&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SARDORALOYEV&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARDORALOYEV&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SARDORALOYEV&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SARDORALOYEV&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 📬 Connect with Me
 
-* **LinkedIn:** [Sardor Aloyev](https://www.linkedin.com/in/sardor-aloyev-790ba7410)
-* **Telegram:** [@Oke07n](https://t.me/Oke07n)
+<p align="left">
+  <a href="https://www.linkedin.com/in/sardor-aloyev-790ba7410" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Oke07n" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
