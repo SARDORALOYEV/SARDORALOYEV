@@ -62,10 +62,6 @@ I am an experienced developer and team lead specializing in building high-perfor
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SARDORALOYEV&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-badges.herokuapp.com/badges?username=SARDORALOYEV&theme=tokyonight" alt="GitHub Achievements Badges" />
-</p>
-
 ---
 
 ## 📬 Connect with Me
