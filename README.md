@@ -3,7 +3,7 @@
 ### Full-Stack Developer | Team Lead & QA Specialist
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SizningGitHubNomiz&label=Profile%20views&color=007acc&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SARDORALOYEV&label=Profile%20views&color=007acc&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -56,8 +56,8 @@ I am an experienced developer and team lead specializing in building high-perfor
 ## 📈 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SizningGitHubNomiz&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SizningGitHubNomiz&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SARDORALOYEV&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARDORALOYEV&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
